@@ -24,3 +24,9 @@ Study of generalization error for model selection in relation to sample size and
 ### Generalization error and empirical error regarding to complexity
 
 ### Generalization error and empirical error regarding to sample size
+
+## Implementation
+
+[notebook implemenation](/src/error_study.ipynb)
+
+# WIP
